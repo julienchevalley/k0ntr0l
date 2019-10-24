@@ -1,0 +1,59 @@
+x0xb0x pattern format
+---------------------
+- 16 Banks
+- 8 Locations per Bank
+- 16 bytes per pattern.
+
+=> BankSize = Locations per Bank * pattern size = 16 * 8 = 128
+
+- 1 byte per step
+
+- Step byte structure:
+     76543210
+     ^^|_____| Note
+     ||_ Accent bit
+     |_ Slide bit
+
+So...
+	note >> 7 = Slide (0/1)
+	note >> 6 = Accent (0/1)
+
+Note is:
+0  = rest
+0x0B = C1
+0x0C = C1#
+...
+0x3F = E5
+0xFF = END_OF_PATTERN
+
+
+
+
+
+303 Chunk Layout
+Skip 9 bytes (303 settings)
+32 Patterns
+	UBYTE 	Shuffle		(0 = off, 1 = on)
+	UBYTE	Pattern Length	(0x01 to 0x10)
+	16 Steps
+		UBYTE	Tone/Pitch (0x00 to 0x0C - C1 to C2)
+		BITMSK
+		   bit 0 = Slide 	(0x01)
+		   bit 1 = Accent	(0x02)
+		   bit 2 = Trans Up	(0x04)
+		   bit 3 = Trans Down	(0x08)
+		   bit 4 = Pause/Note	(0x10)
+		   
+		   
+		   
+.xbp file format
+-----------------
+Version 	1 byte	100
+numentries	2 bytes big endian...
+;Bank     : (1 byte) - The bank from which the pattern was saved. 1 based
+;Location : (1 byte) - The loc from which the pattern was saved. 1 based
+;Pattern  : (16 bytes) - The x0xb0x pattern, stored in the binary format used to store the pattern in EEPROM.
+
+
+
+1152

@@ -1,0 +1,2965 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<PatternBank>
+  <Pattern application="Phoscyon" name="Pattern 0" length="16" shuffle="0"
+           tempo="120">
+    <Step note="1" octaveUp="1" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 1" length="16" shuffle="0"
+           tempo="120">
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="0" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 2" length="16" shuffle="0"
+           tempo="120">
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 3" length="8" shuffle="0"
+           tempo="120">
+    <Step note="10" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 4" length="16" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 5" length="16" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.697093" accentLevel="0.479383" slideLevel="0.911169"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.407797" accentLevel="0.999529" slideLevel="0.146169"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.840717" accentLevel="0.563875" slideLevel="0.566852"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.210056" accentLevel="0.99883" slideLevel="0.810208"/>
+    <Step note="2" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0.652977" accentLevel="0.451203" slideLevel="0.284598"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.498639" accentLevel="0.448317" slideLevel="0.16532"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0.61977" accentLevel="0.81177" slideLevel="0.584698"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0.624265" accentLevel="0.451965" slideLevel="0.089506"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0.496971" accentLevel="0.274279" slideLevel="0.414995"/>
+    <Step note="10" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.385739" accentLevel="0.917399" slideLevel="0.722038"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.749006" accentLevel="0.421897" slideLevel="0.86847"/>
+    <Step note="0" octaveUp="1" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0.619871" accentLevel="0.755625" slideLevel="0.167585"/>
+    <Step note="2" octaveUp="1" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0.227444" accentLevel="0.391754" slideLevel="0.497182"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.072694" accentLevel="0.482742" slideLevel="0.932922"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.232383" accentLevel="0.210961" slideLevel="0.840416"/>
+    <Step note="7" octaveUp="1" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0.3301" accentLevel="0.670675" slideLevel="0.055402"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 6" length="16" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 7" length="16" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 8" length="16" shuffle="0"
+           tempo="120">
+    <Step note="10" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 9" length="16" shuffle="0"
+           tempo="120">
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 10" length="16" shuffle="20"
+           tempo="120">
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="1" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="1" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="0" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="1" gate="0" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 11" length="16" shuffle="0"
+           tempo="120">
+    <Step note="2" octaveUp="1" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="1" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="0" octaveDown="0" gate="0" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 12" length="16" shuffle="36"
+           tempo="120">
+    <Step note="12" octaveUp="1" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 13" length="16" shuffle="24"
+           tempo="120">
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 14" length="16" shuffle="0"
+           tempo="120">
+    <Step note="11" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 15" length="16" shuffle="0"
+           tempo="120">
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 16" length="16" shuffle="0"
+           tempo="120">
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 17" length="16" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 18" length="16" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 19" length="16" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="0" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="1" gate="0" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0.12" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 20" length="16" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 21" length="16" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 22" length="16" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 23" length="16" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 24" length="16" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 25" length="16" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 26" length="16" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 27" length="16" shuffle="0"
+           tempo="120">
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="1" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="1" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="1" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="1" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 28" length="16" shuffle="0"
+           tempo="120">
+    <Step note="9" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="1" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="1" octaveDown="0" gate="0" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="1" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 29" length="16" shuffle="0"
+           tempo="120">
+    <Step note="2" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 30" length="8" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="1" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 31" length="16" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 32" length="16" shuffle="0"
+           tempo="120">
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 33" length="16" shuffle="0"
+           tempo="120">
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="1" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 34" length="16" shuffle="0"
+           tempo="120">
+    <Step note="9" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 35" length="16" shuffle="0"
+           tempo="120">
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 36" length="3" shuffle="0"
+           tempo="120">
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 37" length="16" shuffle="0"
+           tempo="120">
+    <Step note="3" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="0" octaveDown="1" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="0" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 38" length="16" shuffle="0"
+           tempo="120">
+    <Step note="5" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 39" length="16" shuffle="0"
+           tempo="120">
+    <Step note="5" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="0" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="1" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="0" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="1" octaveDown="0" gate="0" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="1" octaveDown="0" gate="0" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 40" length="16" shuffle="0"
+           tempo="120">
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0.338583" accentLevel="0.440945" slideLevel="0.913386"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0.748031" accentLevel="0.094488" slideLevel="0.354331"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0.771654" accentLevel="0.527559" slideLevel="0.944882"/>
+    <Step note="4" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0.181102" accentLevel="0.472441" slideLevel="0.787402"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0.307087" accentLevel="0.472441" slideLevel="0.464567"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0.354331" accentLevel="0.212598" slideLevel="0.84252"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0.905512" accentLevel="0.834646" slideLevel="0.708661"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0.637795" accentLevel="0.472441" slideLevel="0.149606"/>
+    <Step note="1" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0.80315" accentLevel="0.661417" slideLevel="0.125984"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0.732283" accentLevel="0.677165" slideLevel="0.637795"/>
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0.818898" accentLevel="0.771654" slideLevel="0.527559"/>
+    <Step note="6" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0.92126" accentLevel="0.181102" slideLevel="0.503937"/>
+    <Step note="11" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0.267717" accentLevel="0.740157" slideLevel="0.480315"/>
+    <Step note="6" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0.937008" accentLevel="0.858268" slideLevel="0.188976"/>
+    <Step note="5" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0.771654" accentLevel="0.905512" slideLevel="0.700787"/>
+    <Step note="9" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0.503937" accentLevel="0.700787" slideLevel="0.322835"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 41" length="10" shuffle="0"
+           tempo="120">
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 42" length="16" shuffle="0"
+           tempo="120">
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 43" length="8" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 44" length="16" shuffle="0"
+           tempo="120">
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 45" length="4" shuffle="0"
+           tempo="120">
+    <Step note="9" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 46" length="5" shuffle="0"
+           tempo="120">
+    <Step note="6" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 47" length="12" shuffle="0"
+           tempo="120">
+    <Step note="8" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0.88189" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0.062992" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0.448819" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0.212598" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0.251969" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0.929134" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0.496063" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0.031496" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0.818898" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.181102" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0.88189" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0.771654" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 48" length="12" shuffle="0"
+           tempo="120">
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0.88189" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0.062992" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0.448819" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0.212598" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0.251969" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0.929134" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0.496063" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0.031496" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0.818898" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0.181102" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0.88189" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0.771654" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 49" length="12" shuffle="0"
+           tempo="120">
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0.88189" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0.062992" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0.448819" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0.212598" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0.251969" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0.929134" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0.496063" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0.031496" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0.818898" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0.181102" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.88189" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0.771654" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 50" length="8" shuffle="0"
+           tempo="120">
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0.007874" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0.637795" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0.787402" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0.149606" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0.141732" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0.566929" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0.897638" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 51" length="10" shuffle="0"
+           tempo="120">
+    <Step note="9" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0.787402" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0.23622" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0.795276" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0.149606" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0.141732" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0.566929" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0.897638" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0.007874" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0.637795" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 52" length="10" shuffle="0"
+           tempo="120">
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 53" length="16" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 54" length="6" shuffle="0"
+           tempo="120">
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="1" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="1" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 55" length="16" shuffle="0"
+           tempo="120">
+    <Step note="11" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="1" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="0" octaveDown="1" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 56" length="16" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 57" length="8" shuffle="0"
+           tempo="120">
+    <Step note="3" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="1" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 58" length="8" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 59" length="16" shuffle="0"
+           tempo="120">
+    <Step note="2" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 60" length="8" shuffle="0"
+           tempo="120">
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 61" length="16" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 62" length="16" shuffle="0"
+           tempo="120">
+    <Step note="10" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 63" length="7" shuffle="0"
+           tempo="120">
+    <Step note="9" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 64" length="16" shuffle="0"
+           tempo="120">
+    <Step note="10" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 65" length="16" shuffle="0"
+           tempo="120">
+    <Step note="6" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0.566929" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0.338583" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0.748031" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0.748031" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.188976" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0.795276" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0.669291" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0.433071" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0.637795" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0.19685" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0.244094" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0.425197" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0.015748" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0.055118" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0.874016" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0.543307" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 66" length="16" shuffle="0"
+           tempo="120">
+    <Step note="3" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0.346457" accentLevel="0.488189" slideLevel="0.488189"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.110236" accentLevel="1" slideLevel="0.834646"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.133858" accentLevel="0.007874" slideLevel="0.354331"/>
+    <Step note="3" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0.96063" accentLevel="0.80315" slideLevel="0.496063"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.685039" accentLevel="0.047244" slideLevel="0.283465"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.181102" accentLevel="0.858268" slideLevel="0.181102"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.645669" accentLevel="0.173228" slideLevel="0.417323"/>
+    <Step note="3" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0.125984" accentLevel="0.448819" slideLevel="0.417323"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.96063" accentLevel="0.614173" slideLevel="0.291339"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.598425" accentLevel="0.590551" slideLevel="0.834646"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.015748" accentLevel="0.165354" slideLevel="0.393701"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.818898" accentLevel="0.338583" slideLevel="0.283465"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0.488189" accentLevel="0.204724" slideLevel="0.88189"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.275591" accentLevel="0.944882" slideLevel="0.393701"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.015748" accentLevel="0.291339" slideLevel="0.669291"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.401575" accentLevel="0.283465" slideLevel="0.708661"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 67" length="16" shuffle="0"
+           tempo="120">
+    <Step note="1" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="1" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="1" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 68" length="16" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 69" length="8" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 70" length="16" shuffle="0"
+           tempo="120">
+    <Step note="6" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 71" length="16" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="1" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="1" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 72" length="16" shuffle="0"
+           tempo="120">
+    <Step note="12" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="1" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="1" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 73" length="16" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 74" length="16" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 75" length="16" shuffle="0"
+           tempo="120">
+    <Step note="6" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="1" gate="0" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="1" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 76" length="16" shuffle="0"
+           tempo="120">
+    <Step note="11" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 77" length="16" shuffle="0"
+           tempo="120">
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="9" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 78" length="16" shuffle="0"
+           tempo="120">
+    <Step note="2" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="1" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="1" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="1" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="1" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 79" length="16" shuffle="0"
+           tempo="120">
+    <Step note="5" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="1" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 80" length="16" shuffle="0"
+           tempo="120">
+    <Step note="7" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="1" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 81" length="16" shuffle="0"
+           tempo="120">
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 82" length="16" shuffle="0"
+           tempo="120">
+    <Step note="1" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="1" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="1" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="1" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="6" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 83" length="16" shuffle="0"
+           tempo="120">
+    <Step note="7" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="1" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="1" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 84" length="16" shuffle="0"
+           tempo="120">
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 85" length="16" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="1" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 86" length="4" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 87" length="4" shuffle="0"
+           tempo="120">
+    <Step note="9" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="1" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 88" length="16" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 89" length="16" shuffle="0"
+           tempo="120">
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.496063" accentLevel="0.314961" slideLevel="0.787402"/>
+    <Step note="2" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0.251969" accentLevel="0.173228" slideLevel="0.181102"/>
+    <Step note="2" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0.299213" accentLevel="0.96063" slideLevel="0.440945"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.031496" accentLevel="0.755906" slideLevel="0.385827"/>
+    <Step note="2" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0.19685" accentLevel="0.566929" slideLevel="0.11811"/>
+    <Step note="8" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.133858" accentLevel="0.322835" slideLevel="0.07874"/>
+    <Step note="1" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0.220472" accentLevel="0.80315" slideLevel="0.566929"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.488189" accentLevel="0.511811" slideLevel="0.826772"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0.370079" accentLevel="0.393701" slideLevel="0.015748"/>
+    <Step note="6" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0.929134" accentLevel="0.496063" slideLevel="0.314961"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.622047" accentLevel="0.259843" slideLevel="0.19685"/>
+    <Step note="1" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0.976378" accentLevel="0.826772" slideLevel="0.173228"/>
+    <Step note="6" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.779528" accentLevel="0.866142" slideLevel="0.259843"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.818898" accentLevel="0.299213" slideLevel="0.826772"/>
+    <Step note="7" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.818898" accentLevel="0.165354" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="1"
+          gateLevel="0.228346" accentLevel="0.251969" slideLevel="0.811024"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 90" length="16" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="1" octaveDown="0" gate="0" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="1" octaveDown="0" gate="0" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 91" length="16" shuffle="0"
+           tempo="120">
+    <Step note="2" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="2" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="8" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 92" length="16" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.88189" accentLevel="0" slideLevel="0.708661"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0.425197" accentLevel="0" slideLevel="0.338583"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0.614173" accentLevel="0" slideLevel="0.708661"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0.929134" accentLevel="0" slideLevel="0.787402"/>
+    <Step note="6" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0.527559" accentLevel="0" slideLevel="0.03937"/>
+    <Step note="6" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0.503937" accentLevel="0" slideLevel="0.464567"/>
+    <Step note="6" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.622047" accentLevel="0" slideLevel="0.850394"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.275591" accentLevel="0" slideLevel="0.582677"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.984252" accentLevel="0" slideLevel="0.031496"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0.110236" accentLevel="0" slideLevel="0.259843"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0.850394" accentLevel="0" slideLevel="0.275591"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.086614" accentLevel="0" slideLevel="0.527559"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0.976378" accentLevel="0" slideLevel="0.133858"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0.488189" accentLevel="0" slideLevel="0.03937"/>
+    <Step note="6" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="1"
+          gateLevel="0.992126" accentLevel="0" slideLevel="0.795276"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0.614173" accentLevel="0" slideLevel="0.007874"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 93" length="8" shuffle="0"
+           tempo="120">
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="1" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="1" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="4" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 94" length="5" shuffle="0"
+           tempo="120">
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="12" octaveUp="1" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+  <Pattern application="Phoscyon" name="Pattern 95" length="8" shuffle="0"
+           tempo="120">
+    <Step note="6" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="11" octaveUp="1" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="3" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="5" octaveUp="0" octaveDown="0" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="10" octaveUp="0" octaveDown="1" gate="1" accent="0" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="7" octaveUp="0" octaveDown="1" gate="1" accent="1" slide="0"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+    <Step note="0" octaveUp="0" octaveDown="0" gate="1" accent="0" slide="1"
+          gateLevel="0" accentLevel="0" slideLevel="0"/>
+  </Pattern>
+</PatternBank>

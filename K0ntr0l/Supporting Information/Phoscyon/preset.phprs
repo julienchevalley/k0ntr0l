@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<Preset application="Phoscyon" name="Pure Square">
+  <param name="Tuning" value="0.5"/>
+  <param name="Slide Time" value="0.5"/>
+  <param name="Cutoff" value="0.664"/>
+  <param name="Resonance" value="1"/>
+  <param name="Sweep Time" value="1"/>
+  <param name="Env Mod" value="0"/>
+  <param name="Env Attack" value="0"/>
+  <param name="Env Decay" value="0.752"/>
+  <param name="Accent Decay" value="0"/>
+  <param name="Env Accent" value="0.38"/>
+  <param name="Accent Volume" value="1"/>
+  <param name="Step Length" value="0.6"/>
+  <param name="Distortion Preamp" value="0.072"/>
+  <param name="Distortion Size" value="0"/>
+  <param name="Distortion Density" value="0"/>
+  <param name="Distortion Clip" value="0.044"/>
+  <param name="Distortion Wetness" value="0"/>
+  <param name="Distortion Brightness" value="0"/>
+  <param name="Waveform" value="0.085"/>
+  <param name="Accent Mode" value="1"/>
+  <param name="Sweep Mode" value="1"/>
+  <param name="Distortion State" value="0"/>
+  <param name="Distortion Route" value="1"/>
+  <param name="Main Volume" value="0.936"/>
+  <param name="Arpe Chord" value="0"/>
+  <param name="Arpe Mode" value="0"/>
+  <param name="Arpe Shuffle" value="0"/>
+  <param name="Arpe Range Sub 1" value="1"/>
+  <param name="Arpe Range Zero" value="1"/>
+  <param name="Arpe Range Add 1" value="1"/>
+  <param name="Arpe Range Add 2" value="1"/>
+  <param name="Arpe Multiplier" value="0"/>
+  <param name="Arpe Repeater" value="0"/>
+</Preset>

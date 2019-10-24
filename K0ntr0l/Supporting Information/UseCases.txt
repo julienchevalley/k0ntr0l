@@ -1,0 +1,18 @@
+Use Cases
+
+- Import patterns from file(s)
+- Edit Pattern
+
+Set: ordered collection of patterns
+- Create Set
+- Modify Set: 
+	- Add/Remove Pattern 
+	- Change Pattern Order
+- Save Set
+- Send Set to x0xb0x
+
+Pattern:
+- Create Pattern
+- Import pattern(s) from file(s)
+- Save pattern(s) to file(s)
+- Modify Pattern

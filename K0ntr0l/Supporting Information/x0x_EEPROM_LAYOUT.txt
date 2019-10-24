@@ -1,0 +1,5 @@
+pattern memory start 0x0x 
+16 banks * 8 pattern locations * 16 steps * 1 byte / step = 2048 bytes.
+
+track memory start 0x800 (2048)
+64 tracks * 16 patterns * 2 bytes / pattern = 2048 bytes.

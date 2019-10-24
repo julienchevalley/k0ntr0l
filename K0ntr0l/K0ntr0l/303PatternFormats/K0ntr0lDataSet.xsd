@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="K0ntr0lDataSet" targetNamespace="http://tempuri.org/K0ntr0lDataSet.xsd" xmlns:mstns="http://tempuri.org/K0ntr0lDataSet.xsd" xmlns="http://tempuri.org/K0ntr0lDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Step" msprop:Generator_TableClassName="StepDataTable" msprop:Generator_TableVarName="tableStep" msprop:Generator_RowChangedName="StepRowChanged" msprop:Generator_TablePropName="Step" msprop:Generator_RowDeletingName="StepRowDeleting" msprop:Generator_RowChangingName="StepRowChanging" msprop:Generator_RowEvHandlerName="StepRowChangeEventHandler" msprop:Generator_RowDeletedName="StepRowDeleted" msprop:Generator_RowClassName="StepRow" msprop:Generator_UserTableName="Step" msprop:Generator_RowEvArgName="StepRowChangeEvent">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="PatternId" msdata:DataType="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" msprop:Generator_ColumnVarNameInTable="columnPatternId" msprop:Generator_ColumnPropNameInRow="PatternId" msprop:Generator_ColumnPropNameInTable="PatternIdColumn" msprop:Generator_UserColumnName="PatternId" type="xs:string" />
+        <xs:element name="StepNumber" msprop:Generator_ColumnVarNameInTable="columnStepNumber" msprop:Generator_ColumnPropNameInRow="StepNumber" msprop:Generator_ColumnPropNameInTable="StepNumberColumn" msprop:Generator_UserColumnName="StepNumber" type="xs:unsignedByte" />
+        <xs:element name="Note" msprop:Generator_ColumnVarNameInTable="columnNote" msprop:Generator_ColumnPropNameInRow="Note" msprop:Generator_ColumnPropNameInTable="NoteColumn" msprop:Generator_UserColumnName="Note" type="xs:unsignedByte" default="0" />
+        <xs:element name="Gate" msprop:Generator_ColumnVarNameInTable="columnGate" msprop:Generator_ColumnPropNameInRow="Gate" msprop:Generator_ColumnPropNameInTable="GateColumn" msprop:Generator_UserColumnName="Gate" type="xs:boolean" default="false" />
+        <xs:element name="Accent" msprop:Generator_ColumnVarNameInTable="columnAccent" msprop:Generator_ColumnPropNameInRow="Accent" msprop:Generator_ColumnPropNameInTable="AccentColumn" msprop:Generator_UserColumnName="Accent" type="xs:boolean" default="false" />
+        <xs:element name="Slide" msprop:Generator_ColumnVarNameInTable="columnSlide" msprop:Generator_ColumnPropNameInRow="Slide" msprop:Generator_ColumnPropNameInTable="SlideColumn" msprop:Generator_UserColumnName="Slide" type="xs:boolean" default="false" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="K0ntr0lDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="K0ntr0lDataSet" msprop:Generator_UserDSName="K0ntr0lDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="Step" />
+        <xs:element name="Pattern" msprop:Generator_TableClassName="PatternDataTable" msprop:Generator_TableVarName="tablePattern" msprop:Generator_RowChangedName="PatternRowChanged" msprop:Generator_TablePropName="Pattern" msprop:Generator_RowDeletingName="PatternRowDeleting" msprop:Generator_RowChangingName="PatternRowChanging" msprop:Generator_RowEvHandlerName="PatternRowChangeEventHandler" msprop:Generator_RowDeletedName="PatternRowDeleted" msprop:Generator_RowClassName="PatternRow" msprop:Generator_UserTableName="Pattern" msprop:Generator_RowEvArgName="PatternRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PatternId" msdata:DataType="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnPatternId" msprop:Generator_ColumnPropNameInRow="PatternId" msprop:Generator_ColumnPropNameInTable="PatternIdColumn" msprop:Generator_UserColumnName="PatternId" type="xs:string" />
+              <xs:element name="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnPropNameInTable="NameColumn" msprop:Generator_UserColumnName="Name" type="xs:string" default="" />
+              <xs:element name="Length" msprop:Generator_ColumnVarNameInTable="columnLength" msprop:Generator_ColumnPropNameInRow="Length" msprop:Generator_ColumnPropNameInTable="LengthColumn" msprop:Generator_UserColumnName="Length" type="xs:unsignedByte" />
+              <xs:element name="Source" msprop:Generator_ColumnVarNameInTable="columnSource" msprop:Generator_ColumnPropNameInRow="Source" msprop:Generator_ColumnPropNameInTable="SourceColumn" msprop:Generator_UserColumnName="Source" type="xs:string" minOccurs="0" />
+              <xs:element name="Tempo" msprop:Generator_ColumnVarNameInTable="columnTempo" msprop:Generator_ColumnPropNameInRow="Tempo" msprop:Generator_ColumnPropNameInTable="TempoColumn" msprop:Generator_UserColumnName="Tempo" type="xs:unsignedShort" default="0" />
+              <xs:element name="X0xPatternBytes" msprop:Generator_ColumnVarNameInTable="columnX0xPatternBytes" msprop:Generator_ColumnPropNameInRow="X0xPatternBytes" msprop:Generator_ColumnPropNameInTable="X0xPatternBytesColumn" msprop:Generator_UserColumnName="X0xPatternBytes" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="Description" msprop:nullValue="_empty" msprop:Generator_ColumnPropNameInRow="Description" msprop:Generator_ColumnVarNameInTable="columnDescription" msprop:Generator_ColumnPropNameInTable="DescriptionColumn" msprop:Generator_UserColumnName="Description" type="xs:string" default="" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="X0xb0xSet" msprop:Generator_TableClassName="X0xb0xSetDataTable" msprop:Generator_TableVarName="tableX0xb0xSet" msprop:Generator_RowChangedName="X0xb0xSetRowChanged" msprop:Generator_TablePropName="X0xb0xSet" msprop:Generator_RowDeletingName="X0xb0xSetRowDeleting" msprop:Generator_RowChangingName="X0xb0xSetRowChanging" msprop:Generator_RowEvHandlerName="X0xb0xSetRowChangeEventHandler" msprop:Generator_RowDeletedName="X0xb0xSetRowDeleted" msprop:Generator_RowClassName="X0xb0xSetRow" msprop:Generator_UserTableName="X0xb0xSet" msprop:Generator_RowEvArgName="X0xb0xSetRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="X0xb0xSetId" msdata:DataType="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msdata:Caption="X0xB0xSetId" msprop:Generator_ColumnVarNameInTable="columnX0xb0xSetId" msprop:Generator_ColumnPropNameInRow="X0xb0xSetId" msprop:Generator_ColumnPropNameInTable="X0xb0xSetIdColumn" msprop:Generator_UserColumnName="X0xb0xSetId" type="xs:string" />
+              <xs:element name="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnPropNameInTable="NameColumn" msprop:Generator_UserColumnName="Name" type="xs:string" />
+              <xs:element name="Description" msprop:Generator_ColumnVarNameInTable="columnDescription" msprop:Generator_ColumnPropNameInRow="Description" msprop:Generator_ColumnPropNameInTable="DescriptionColumn" msprop:Generator_UserColumnName="Description" type="xs:string" minOccurs="0" />
+              <xs:element name="DateCreated" msprop:Generator_ColumnVarNameInTable="columnDateCreated" msprop:Generator_ColumnPropNameInRow="DateCreated" msprop:Generator_ColumnPropNameInTable="DateCreatedColumn" msprop:Generator_UserColumnName="DateCreated" type="xs:dateTime" />
+              <xs:element name="DateModified" msprop:Generator_ColumnVarNameInTable="columnDateModified" msprop:Generator_ColumnPropNameInRow="DateModified" msprop:Generator_ColumnPropNameInTable="DateModifiedColumn" msprop:Generator_UserColumnName="DateModified" type="xs:dateTime" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="X0xb0xSetPattern" msprop:Generator_TableClassName="X0xb0xSetPatternDataTable" msprop:Generator_TableVarName="tableX0xb0xSetPattern" msprop:Generator_RowChangedName="X0xb0xSetPatternRowChanged" msprop:Generator_TablePropName="X0xb0xSetPattern" msprop:Generator_RowDeletingName="X0xb0xSetPatternRowDeleting" msprop:Generator_RowChangingName="X0xb0xSetPatternRowChanging" msprop:Generator_RowEvHandlerName="X0xb0xSetPatternRowChangeEventHandler" msprop:Generator_RowDeletedName="X0xb0xSetPatternRowDeleted" msprop:Generator_RowClassName="X0xb0xSetPatternRow" msprop:Generator_UserTableName="X0xb0xSetPattern" msprop:Generator_RowEvArgName="X0xb0xSetPatternRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="X0xb0xSetId" msdata:DataType="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" msprop:Generator_ColumnVarNameInTable="columnX0xb0xSetId" msprop:Generator_ColumnPropNameInRow="X0xb0xSetId" msprop:Generator_ColumnPropNameInTable="X0xb0xSetIdColumn" msprop:Generator_UserColumnName="X0xb0xSetId" type="xs:string" />
+              <xs:element name="Bank" msprop:Generator_ColumnVarNameInTable="columnBank" msprop:Generator_ColumnPropNameInRow="Bank" msprop:Generator_ColumnPropNameInTable="BankColumn" msprop:Generator_UserColumnName="Bank" type="xs:unsignedByte" />
+              <xs:element name="Location" msprop:Generator_ColumnVarNameInTable="columnLocation" msprop:Generator_ColumnPropNameInRow="Location" msprop:Generator_ColumnPropNameInTable="LocationColumn" msprop:Generator_UserColumnName="Location" type="xs:unsignedByte" />
+              <xs:element name="PatternId" msdata:DataType="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" msprop:Generator_ColumnVarNameInTable="columnPatternId" msprop:Generator_ColumnPropNameInRow="PatternId" msprop:Generator_ColumnPropNameInTable="PatternIdColumn" msprop:Generator_UserColumnName="PatternId" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Step" />
+      <xs:field xpath="mstns:PatternId" />
+      <xs:field xpath="mstns:StepNumber" />
+    </xs:unique>
+    <xs:unique name="Pattern_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Pattern" />
+      <xs:field xpath="mstns:PatternId" />
+    </xs:unique>
+    <xs:unique name="X0xb0xSet_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:X0xb0xSet" />
+      <xs:field xpath="mstns:X0xb0xSetId" />
+    </xs:unique>
+    <xs:unique name="X0xb0xSetKey1">
+      <xs:selector xpath=".//mstns:X0xb0xSet" />
+      <xs:field xpath="mstns:Name" />
+    </xs:unique>
+    <xs:unique name="X0xb0xSetPattern_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:X0xb0xSetPattern" />
+      <xs:field xpath="mstns:X0xb0xSetId" />
+      <xs:field xpath="mstns:Location" />
+      <xs:field xpath="mstns:Bank" />
+    </xs:unique>
+    <xs:unique name="Constraint2">
+      <xs:selector xpath=".//mstns:X0xb0xSetPattern" />
+      <xs:field xpath="mstns:PatternId" />
+    </xs:unique>
+    <xs:keyref name="FK_X0xb0xSet_X0xb0xSetPattern" refer="X0xb0xSet_Constraint1" msprop:rel_Generator_UserChildTable="X0xb0xSetPattern" msprop:rel_Generator_ChildPropName="GetX0xb0xSetPatternRows" msprop:rel_Generator_UserRelationName="FK_X0xb0xSet_X0xb0xSetPattern" msprop:rel_Generator_RelationVarName="relationFK_X0xb0xSet_X0xb0xSetPattern" msprop:rel_Generator_UserParentTable="X0xb0xSet" msprop:rel_Generator_ParentPropName="X0xb0xSetRow">
+      <xs:selector xpath=".//mstns:X0xb0xSetPattern" />
+      <xs:field xpath="mstns:X0xb0xSetId" />
+    </xs:keyref>
+    <xs:keyref name="FK_Pattern_Step" refer="Pattern_Constraint1" msprop:rel_Generator_UserChildTable="Step" msprop:rel_Generator_ChildPropName="GetStepRows" msprop:rel_Generator_UserRelationName="FK_Pattern_Step" msprop:rel_Generator_RelationVarName="relationFK_Pattern_Step" msprop:rel_Generator_UserParentTable="Pattern" msprop:rel_Generator_ParentPropName="PatternRow">
+      <xs:selector xpath=".//mstns:Step" />
+      <xs:field xpath="mstns:PatternId" />
+    </xs:keyref>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="X0xb0xSetPattern_Pattern" msdata:parent="Pattern" msdata:child="X0xb0xSetPattern" msdata:parentkey="PatternId" msdata:childkey="PatternId" msprop:Generator_UserChildTable="X0xb0xSetPattern" msprop:Generator_ChildPropName="GetX0xb0xSetPatternRows" msprop:Generator_UserRelationName="X0xb0xSetPattern_Pattern" msprop:Generator_RelationVarName="relationX0xb0xSetPattern_Pattern" msprop:Generator_UserParentTable="Pattern" msprop:Generator_ParentPropName="PatternRow" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

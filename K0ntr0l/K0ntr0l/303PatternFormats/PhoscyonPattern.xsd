@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="PhoscyonDataSet" targetNamespace="ThreeZeroThreePatternFormats" xmlns:mstns="ThreeZeroThreePatternFormats" xmlns="ThreeZeroThreePatternFormats" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Pattern" msprop:Generator_TableClassName="PatternDataTable" msprop:Generator_TableVarName="tablePattern" msprop:Generator_TablePropName="Pattern" msprop:Generator_RowDeletingName="PatternRowDeleting" msprop:Generator_UserTableName="Pattern" msprop:Generator_RowChangingName="PatternRowChanging" msprop:Generator_RowEvHandlerName="PatternRowChangeEventHandler" msprop:Generator_RowDeletedName="PatternRowDeleted" msprop:Generator_RowEvArgName="PatternRowChangeEvent" msprop:Generator_RowChangedName="PatternRowChanged" msprop:Generator_RowClassName="PatternRow">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Step" msprop:Generator_TableClassName="StepDataTable" msprop:Generator_TableVarName="tableStep" msprop:Generator_TablePropName="Step" msprop:Generator_RowDeletingName="StepRowDeleting" msprop:Generator_UserTableName="Step" msprop:Generator_RowChangingName="StepRowChanging" msprop:Generator_RowEvHandlerName="StepRowChangeEventHandler" msprop:Generator_RowDeletedName="StepRowDeleted" msprop:Generator_RowEvArgName="StepRowChangeEvent" msprop:Generator_RowChangedName="StepRowChanged" msprop:Generator_RowClassName="StepRow" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:attribute name="note" form="unqualified" msprop:Generator_ColumnVarNameInTable="columnnote" msprop:Generator_ColumnPropNameInRow="note" msprop:Generator_ColumnPropNameInTable="noteColumn" msprop:Generator_UserColumnName="note" type="xs:string" />
+            <xs:attribute name="octaveUp" form="unqualified" msprop:Generator_ColumnVarNameInTable="columnoctaveUp" msprop:Generator_ColumnPropNameInRow="octaveUp" msprop:Generator_ColumnPropNameInTable="octaveUpColumn" msprop:Generator_UserColumnName="octaveUp" type="xs:string" />
+            <xs:attribute name="octaveDown" form="unqualified" msprop:Generator_ColumnVarNameInTable="columnoctaveDown" msprop:Generator_ColumnPropNameInRow="octaveDown" msprop:Generator_ColumnPropNameInTable="octaveDownColumn" msprop:Generator_UserColumnName="octaveDown" type="xs:string" />
+            <xs:attribute name="gate" form="unqualified" msprop:Generator_ColumnVarNameInTable="columngate" msprop:Generator_ColumnPropNameInRow="gate" msprop:Generator_ColumnPropNameInTable="gateColumn" msprop:Generator_UserColumnName="gate" type="xs:string" />
+            <xs:attribute name="accent" form="unqualified" msprop:Generator_ColumnVarNameInTable="columnaccent" msprop:Generator_ColumnPropNameInRow="accent" msprop:Generator_ColumnPropNameInTable="accentColumn" msprop:Generator_UserColumnName="accent" type="xs:string" />
+            <xs:attribute name="slide" form="unqualified" msprop:Generator_ColumnVarNameInTable="columnslide" msprop:Generator_ColumnPropNameInRow="slide" msprop:Generator_ColumnPropNameInTable="slideColumn" msprop:Generator_UserColumnName="slide" type="xs:string" />
+            <xs:attribute name="gateLevel" form="unqualified" msprop:Generator_ColumnVarNameInTable="columngateLevel" msprop:Generator_ColumnPropNameInRow="gateLevel" msprop:Generator_ColumnPropNameInTable="gateLevelColumn" msprop:Generator_UserColumnName="gateLevel" type="xs:string" />
+            <xs:attribute name="accentLevel" form="unqualified" msprop:Generator_ColumnVarNameInTable="columnaccentLevel" msprop:Generator_ColumnPropNameInRow="accentLevel" msprop:Generator_ColumnPropNameInTable="accentLevelColumn" msprop:Generator_UserColumnName="accentLevel" type="xs:string" />
+            <xs:attribute name="slideLevel" form="unqualified" msprop:Generator_ColumnVarNameInTable="columnslideLevel" msprop:Generator_ColumnPropNameInRow="slideLevel" msprop:Generator_ColumnPropNameInTable="slideLevelColumn" msprop:Generator_UserColumnName="slideLevel" type="xs:string" />
+            <xs:attribute name="Pattern_Id" msprop:Generator_ColumnVarNameInTable="columnPattern_Id" msprop:Generator_ColumnPropNameInRow="Pattern_Id" msprop:Generator_ColumnPropNameInTable="Pattern_IdColumn" msprop:Generator_UserColumnName="Pattern_Id" type="xs:int" use="prohibited" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute name="application" form="unqualified" msprop:Generator_ColumnVarNameInTable="columnapplication" msprop:Generator_ColumnPropNameInRow="application" msprop:Generator_ColumnPropNameInTable="applicationColumn" msprop:Generator_UserColumnName="application" type="xs:string" />
+      <xs:attribute name="name" form="unqualified" msprop:Generator_ColumnVarNameInTable="columnname" msprop:Generator_ColumnPropNameInRow="name" msprop:Generator_ColumnPropNameInTable="nameColumn" msprop:Generator_UserColumnName="name" type="xs:string" />
+      <xs:attribute name="length" form="unqualified" msprop:Generator_ColumnVarNameInTable="columnlength" msprop:Generator_ColumnPropNameInRow="length" msprop:Generator_ColumnPropNameInTable="lengthColumn" msprop:Generator_UserColumnName="length" type="xs:string" />
+      <xs:attribute name="shuffle" form="unqualified" msprop:Generator_ColumnVarNameInTable="columnshuffle" msprop:Generator_ColumnPropNameInRow="shuffle" msprop:Generator_ColumnPropNameInTable="shuffleColumn" msprop:Generator_UserColumnName="shuffle" type="xs:string" />
+      <xs:attribute name="tempo" form="unqualified" msprop:Generator_ColumnVarNameInTable="columntempo" msprop:Generator_ColumnPropNameInRow="tempo" msprop:Generator_ColumnPropNameInTable="tempoColumn" msprop:Generator_UserColumnName="tempo" type="xs:string" />
+      <xs:attribute name="Pattern_Id" msdata:AutoIncrement="true" msprop:Generator_ColumnVarNameInTable="columnPattern_Id" msprop:Generator_ColumnPropNameInRow="Pattern_Id" msprop:Generator_ColumnPropNameInTable="Pattern_IdColumn" msprop:Generator_UserColumnName="Pattern_Id" type="xs:int" msdata:AllowDBNull="false" use="prohibited" />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PhoscyonDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="PhoscyonDataSet" msprop:Generator_UserDSName="PhoscyonDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="Pattern" />
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Pattern" />
+      <xs:field xpath="@mstns:Pattern_Id" />
+    </xs:unique>
+    <xs:keyref name="Pattern_Step" refer="Constraint1" msdata:IsNested="true" msprop:rel_Generator_UserChildTable="Step" msprop:rel_Generator_ChildPropName="GetStepRows" msprop:rel_Generator_ParentPropName="PatternRow" msprop:rel_Generator_UserRelationName="Pattern_Step" msprop:rel_Generator_RelationVarName="relationPattern_Step" msprop:rel_Generator_UserParentTable="Pattern">
+      <xs:selector xpath=".//mstns:Step" />
+      <xs:field xpath="@mstns:Pattern_Id" />
+    </xs:keyref>
+  </xs:element>
+</xs:schema>
